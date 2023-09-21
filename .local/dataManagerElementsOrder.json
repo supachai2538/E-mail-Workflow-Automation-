@@ -1,0 +1,25 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Sending E-mail Automation.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Out_Config&Sequence_1",
+        "ConfigDT&Sequence_2",
+        "Email_DT&Sequence_4",
+        "filename&Sequence_5"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}
